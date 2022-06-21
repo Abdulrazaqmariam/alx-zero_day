@@ -1,1 +1,1 @@
-Some text from this read me
+ Some text for this read me
